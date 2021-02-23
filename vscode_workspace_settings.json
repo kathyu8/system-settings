@@ -1,0 +1,68 @@
+{
+  "[dockerfile]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "color-highlight.markRuler": false,
+  "color-highlight.matchWords": true,
+  "cSpell.userWords": [
+    "Formik",
+    "expensify",
+    "pnrs"
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.eslint": true
+  },
+  "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.mouseWheelZoom": false,
+  "editor.renderIndentGuides": false,
+  "editor.renderWhitespace": "selection",
+  "editor.suggest.showStatusBar": true,
+  "editor.tabSize": 2,
+  "explorer.confirmDragAndDrop": true,
+  "files.autoSave": "onFocusChange",
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.jsxSingleQuote": true,
+  "prettier.resolveGlobalModules": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": -1,
+  "workbench.colorCustomizations": {
+    "editorError.border": "#0000",
+    "editorError.foreground": "#fff",
+    "editorOverviewRuler.errorForeground": "#fff"
+  },
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.settings.useSplitJSON": true,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.startupEditor": "newUntitledFile"
+}
